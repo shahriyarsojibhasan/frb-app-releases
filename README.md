@@ -10,3 +10,4 @@ This repository hosts official, signed Android APK releases for FRB Infinity Cou
 1. **Video Playback Fix**: Fixed BunnyCDN Apar R2 streaming and worker playlist resolution in native Android app.
 2. **In-App Auto Update**: The app now automatically detects newer updates from Firebase and provides one-click download & installation.
 3. **Android 14/15 Support & Performance Optimizations**.
+
