@@ -1,11 +1,10 @@
 @echo off
 echo ========================================================
-echo Pushing latest APK release to GitHub...
+echo Pushing latest APK release to GitHub (frb-app-releases)...
 echo ========================================================
 git add .
 git commit -m "Update APK Release %DATE% %TIME%"
-git push origin master
+git push origin main
 echo ========================================================
-echo Done!
+echo Done! Released successfully to GitHub!
 pause
-
